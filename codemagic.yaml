@@ -11,8 +11,8 @@ workflows:
         bundle_identifier: com.chebotar.wolfster
       vars:
         BUNDLE_ID: com.chebotar.wolfster
-        XCODE_PROJECT: "Wolfster.xcodeproj"
-        XCODE_SCHEME: "Wolfster"
+        XCODE_PROJECT: "WolfRean.xcodeproj"
+        XCODE_SCHEME: "WolfRean"
         APP_STORE_APPLE_ID: 6755757691
       xcode: latest
     scripts:
