@@ -8,12 +8,12 @@ workflows:
     environment:
       ios_signing:
         distribution_type: app_store
-        bundle_identifier: com.chebotar.wolfster
+        bundle_identifier: com.cheb.wolfo
       vars:
-        BUNDLE_ID: com.chebotar.wolfster
+        BUNDLE_ID: com.cheb.wolfo
         XCODE_PROJECT: "WolfRean.xcodeproj"
         XCODE_SCHEME: "WolfRean"
-        APP_STORE_APPLE_ID: 6755757691
+        APP_STORE_APPLE_ID: 6755878646
       xcode: latest
     scripts:
       - name: Set up provisioning profiles settings on Xcode project

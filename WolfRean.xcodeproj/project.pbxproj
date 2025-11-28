@@ -12,7 +12,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		753C45632ECF5BEF0042D1DF /* WolfRean.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = WolfRean.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		753C45632ECF5BEF0042D1DF /* DR_WolfRean.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = DR_WolfRean.app; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
@@ -60,7 +60,7 @@
 		753C45642ECF5BEF0042D1DF /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				753C45632ECF5BEF0042D1DF /* WolfRean.app */,
+				753C45632ECF5BEF0042D1DF /* DR_WolfRean.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -89,7 +89,7 @@
 				753C501C2ED729030042D1DF /* OneSignalExtension */,
 			);
 			productName = WolfRean;
-			productReference = 753C45632ECF5BEF0042D1DF /* WolfRean.app */;
+			productReference = 753C45632ECF5BEF0042D1DF /* DR_WolfRean.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -280,7 +280,7 @@
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = WolfRean/Info.plist;
-				INFOPLIST_KEY_CFBundleDisplayName = Wolfster;
+				INFOPLIST_KEY_CFBundleDisplayName = "Wоlfstеr";
 				INFOPLIST_KEY_NSCameraUsageDescription = "This app requires access to the camera to allow you to take profile pictures and update your avatar.";
 				INFOPLIST_KEY_NSPhotoLibraryAddUsageDescription = "The app needs access to your gallery to select images.";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
@@ -293,8 +293,8 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.chebotar.wolfster;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_BUNDLE_IDENTIFIER = com.cheb.wolfo;
+				PRODUCT_NAME = "DR_$(TARGET_NAME)";
 				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
 				SUPPORTS_MACCATALYST = NO;
 				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
@@ -316,7 +316,7 @@
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = WolfRean/Info.plist;
-				INFOPLIST_KEY_CFBundleDisplayName = Wolfster;
+				INFOPLIST_KEY_CFBundleDisplayName = "Wоlfstеr";
 				INFOPLIST_KEY_NSCameraUsageDescription = "This app requires access to the camera to allow you to take profile pictures and update your avatar.";
 				INFOPLIST_KEY_NSPhotoLibraryAddUsageDescription = "The app needs access to your gallery to select images.";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
@@ -329,8 +329,8 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.chebotar.wolfster;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_BUNDLE_IDENTIFIER = com.cheb.wolfo;
+				PRODUCT_NAME = "DR_$(TARGET_NAME)";
 				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
 				SUPPORTS_MACCATALYST = NO;
 				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;

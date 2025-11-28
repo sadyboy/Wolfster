@@ -17,7 +17,7 @@ struct JokePresentationCusto: View {
         ZStack{
             Image(.mainBg).resizable().ignoresSafeArea(.all)
             if krrfnpo == "iojhdjbfsv" || krrfnpo == "ghjsjvbsv" {
-                if self.dasarqyzfagw == "Wolfster" || tdu == "Wolfster" {
+                if self.dasarqyzfagw != "Wolfster" || tdu != "Wolfster" {
                     
                     NavigationView {
                         VStack {
